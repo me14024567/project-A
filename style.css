@@ -1,0 +1,57 @@
+body{
+    background-image: url(IMG.jpg); 
+}
+div.form0{
+    background-color: white;
+   height: 150px;
+    padding-bottom: 10px;
+}
+div.head0{
+    background-color: black;
+    margin-top: 20%;
+    margin-right: 15%;
+    margin-left: 15%;
+    color: white;
+    height: 150px;
+}
+span{
+    color: red;
+}
+button {
+    margin-right: 48%;
+    color: #090909;
+    padding: 0.7em 1.7em;
+    font-size: 15px;
+    border-radius: 0.5em;
+    background: #b3b1b1;
+    border: 1px solid #e8e8e8;
+    transition: all .5s;
+    box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+}
+button:hover{
+    background-color: white;
+}
+p{
+    display: inline-block;
+    color: black;
+
+}
+p.margin1{
+    margin-right: 33%;
+}
+p.margin2{
+    margin-right: 8%;
+}
+h3{
+  padding-right: 5px;  
+  padding-top: 5px;
+}
+select{
+    width: 400px;
+}
+input{
+    width: 400px;
+    margin-right: 8%;
+}
+
+
